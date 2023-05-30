@@ -1,0 +1,13 @@
+﻿todo list to night
+
+
+
+1. Kiem tra dieu kien chien thang.
+	a. kiem tra 5 button trong hang. 
+	b. kiem tra 5 button trong cot.
+	c. kiem tra 5 button trong duong cheo phai 
+	d. kiem tra 5 button trong duong cheo trai.
+	e. kiem tra 5 button co free 2 dau khong. 
+
+
+2. dieu kien kiem tra hang.
